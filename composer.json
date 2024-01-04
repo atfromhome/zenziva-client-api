@@ -1,11 +1,12 @@
 {
-    "name": "ziswapp/zenziva-client-api",
-    "description": "Zenziva client api",
+    "name": "fromhome/zenziva-client-api",
+    "description": "Unofficial Zenziva client api",
     "type": "library",
     "license": "MIT",
     "keywords": [
         "zenziva",
-        "sms"
+        "sms",
+        "laravel"
     ],
     "authors": [
         {
