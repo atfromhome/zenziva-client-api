@@ -14,12 +14,12 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^8.0",
         "ext-json": "*",
         "ext-simplexml": "*",
-        "illuminate/notifications": "^7.30|^8.40|^9.19",
-        "illuminate/support": "^7.30|^8.40|^9.19",
-        "illuminate/events": "^7.30|^8.40|^9.19",
+        "illuminate/notifications": "^9.19|^10.0",
+        "illuminate/support": "^9.19|^10.0",
+        "illuminate/events": "^9.19|^10.0",
         "nesbot/carbon": "^2.27",
         "symfony/http-client": "^4.4|^5.0|^6.0"
     },
