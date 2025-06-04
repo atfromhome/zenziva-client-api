@@ -21,7 +21,7 @@
         "illuminate/notifications": "^11|^12.0",
         "illuminate/support": "^11.0|^12.0",
         "illuminate/events": "^11.0|^12.0",
-        "nesbot/carbon": "^3.91",
+        "nesbot/carbon": "^3.8|^3.9",
         "symfony/http-client": "^6.0|^7.0"
     },
     "require-dev": {
